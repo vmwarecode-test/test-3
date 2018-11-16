@@ -1,0 +1,14 @@
+{
+  "valid": {
+    "user": "coe@coe.com",
+    "password": "coe"
+  },
+  "lock": {
+    "user": "lock@lock.com",
+    "password": "lock"
+  },
+  "error": {
+    "user": "error@error.com",
+    "password": "error"
+  }
+}

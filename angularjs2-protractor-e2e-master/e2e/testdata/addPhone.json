@@ -1,0 +1,19 @@
+{
+  "addData": {
+    "modelName": "vivo",
+    "screenSize": "5.2",
+    "manufacturerName": "vivo co",
+    "price": "3000",
+    "osType":"Android",
+    "releaseDate":"5"
+  },
+  
+  "editData": {
+    "modelName": "Honor",
+    "screenSize": "5.9",
+    "manufacturerName": "Indian co",
+    "price": "7000",
+    "osType":"Windows Phone",
+    "releaseDate":"15"
+  }
+}

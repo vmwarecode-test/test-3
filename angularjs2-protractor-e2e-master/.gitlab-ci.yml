@@ -1,0 +1,12 @@
+image: colthreepv/node-chrome:9
+cache:
+  untracked: true
+  key: "$CI_BUILD_REF_NAME"
+  paths:
+    - node_modules/
+    
+test:
+  script: npm test
+  artifacts: 
+    paths:
+    - reports
